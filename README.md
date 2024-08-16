@@ -1,4 +1,4 @@
-# Week4tut
+# Angular Lab
 
 Command used for this project.
 
